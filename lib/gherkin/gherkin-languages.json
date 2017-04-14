@@ -1463,40 +1463,60 @@
       "És "
     ],
     "background": [
-      "Háttér"
+      "Háttér",
+      "Környezet",
+      "Alaphelyzet"
     ],
     "but": [
       "* ",
-      "De "
+      "De ",
+      "Viszont ",
+      "Azonban ",
+      "Ennek ellenére viszont ",
+      "Ennek ellenére mégis ",
+      "Ennek ellenére "
     ],
     "examples": [
-      "Példák"
+      "Példák",
+      "Esetek",
+      "Esettáblázat",
+      "Táblázat"
     ],
     "feature": [
-      "Jellemző"
+      "Jellemző",
+      "Funkció",
+      "Szolgáltatás",
+      "Képesség"
     ],
     "given": [
       "* ",
       "Amennyiben ",
-      "Adott "
+      "Adott ",
+      "Ha "
     ],
     "name": "Hungarian",
     "native": "magyar",
     "scenario": [
-      "Forgatókönyv"
+      "Forgatókönyv",
+      "Eset"
     ],
     "scenarioOutline": [
-      "Forgatókönyv vázlat"
+      "Forgatókönyv vázlat",
+      "Táblázatos eset",
+      "Eset táblázattal"
     ],
     "then": [
       "* ",
-      "Akkor "
+      "Akkor ",
+      "Erre ",
+      "Ilyenkor "
     ],
     "when": [
       "* ",
       "Majd ",
       "Ha ",
-      "Amikor "
+      "Amikor ",
+      "Majd ekkor "
     ]
   },
   "id": {
